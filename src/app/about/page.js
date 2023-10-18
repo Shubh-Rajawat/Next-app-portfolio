@@ -5,14 +5,14 @@ import React from 'react'
 const About = () => {
 
     return (
-        <div className='grid grid-cols-1 text-justify px-10 pb-10 sm:text-start sm:grid-cols-2 gap-4 items-center sm:my-12' id='aboutme' >
+        <div className='grid grid-cols-1 text-center px-10 pb-10 sm:text-start sm:grid-cols-2 gap-4 items-center sm:my-12' >
             <div className='h-56'>
                 <img src="/laptop.svg" className=' hidden dark:block w-full h-full' alt="" />
                 <img src="/laptop-light.svg" className='dark:hidden w-full h-full' alt="" />
             </div>
             <div className="aboutme text-lg">
                 <h2 className='text-4xl' >About</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti eveniet placeat nam suscipit distinctio architecto molestiae iste! Quas, ullam veniam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dicta fugit tempore, impedit esse dolorum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, dignissimos!</p>
+                <p>I'm  a passionate React.js developer. I have a strong background in front-end development, and I love creating user-friendly web applications. </p>
             </div>
         </div>
     )
