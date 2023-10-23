@@ -9,9 +9,12 @@ const Skills = () => {
             <Card data={ { name: "TAILWIND", img: "/tailwind-light.svg", dark_img: "/tailwind.svg" } } />
             <Card data={ { name: "BOOTSTRAP", img: "/bootstrap-light.svg", dark_img: "/bootstrap.svg" } } />
             <Card data={ { name: "REACT JS", img: "/react-light.svg", dark_img: "/react.svg" } } />
-            <Card data={ { name: "Fundamentals of \n NEXT JS", img: "/next-light.svg", dark_img: "/next.svg" } } />
+            <Card data={ { name: "RestFul APIs", img: "/rest-api-light.svg", dark_img: "/rest-api.svg" } } />
             <Card data={ { name: "REACT QUERY", img: "/query-light.svg", dark_img: "/query.svg" } } />
             <Card data={ { name: "REDUX TOOLKIT", img: "/redux-light.svg", dark_img: "/redux.svg" } } />
+            <Card data={ { name: "Chakra UI", img: "/chakra-light.svg", dark_img: "/chakra.svg" } } />
+            <Card data={ { name: "Material UI", img: "/material-ui-light.svg", dark_img: "/material-ui.svg" } } />
+            <Card data={ { name: "PrimeReact UI", img: "/primereact-light.webp", dark_img: "/primereact.png" } } />
         </div>
     )
 }

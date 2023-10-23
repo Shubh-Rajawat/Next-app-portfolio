@@ -3,7 +3,7 @@ import React from 'react'
 const Contact = () => {
     return (
         <div className='mb-8' >
-            <h2 className="text-4xl font-bold dark:text-white">Contact me</h2>
+            <h2 className="text-4xl font-bold dark:text-white pl-2">Contact me</h2>
             <hr className="h-px mb-8 mt-1 bg-gray-200 border-0 dark:bg-gray-700"></hr>
             <div className="sm:flex justify-between flex-wrap">
                 <div className='flex items-center justify-center gap-5 mx-auto sm:mx-0' id='contact'>

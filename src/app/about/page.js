@@ -12,7 +12,7 @@ const About = () => {
             </div>
             <div className="aboutme text-lg">
                 <h2 className='text-4xl' >About</h2>
-                <p>I'm  a passionate React.js developer. I have a strong background in front-end development, and I love creating user-friendly web applications. </p>
+                <p>I'm  a passionate React.js developer. I have a strong background in front-end development, and I love creating user-friendly and responsive web applications.</p>
             </div>
         </div>
     )
